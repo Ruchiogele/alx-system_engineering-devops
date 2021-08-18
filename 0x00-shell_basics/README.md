@@ -1,1 +1,0 @@
-This file contains a shell command for printing working directories.
