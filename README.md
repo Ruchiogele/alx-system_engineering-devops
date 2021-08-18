@@ -1,0 +1,1 @@
+This repo contains the shell bash project
