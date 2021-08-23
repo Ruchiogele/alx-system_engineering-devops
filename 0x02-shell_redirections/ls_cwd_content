@@ -1,0 +1,13 @@
+total 40
+drwxrwxr-x 2 chuqdennis chuqdennis 4096 Aug 23 15:45 .
+drwxrwxr-x 6 chuqdennis chuqdennis 4096 Aug 23 11:50 ..
+-rwxrw-r-- 1 chuqdennis chuqdennis   35 Aug 23 11:55 0-hello_world
+-rwxrw-r-- 1 chuqdennis chuqdennis   28 Aug 23 12:23 2-hellofile
+-rwxrw-r-- 1 chuqdennis chuqdennis   39 Aug 23 12:41 3-twofiles
+-rwxrw-r-- 1 chuqdennis chuqdennis   29 Aug 23 12:20 4-lastlines
+-rwxrw-r-- 1 chuqdennis chuqdennis   29 Aug 23 12:38 5-firstlines
+-rwxrw-r-- 1 chuqdennis chuqdennis   31 Aug 23 13:21 6-third_line
+-rwxrw-r-- 1 chuqdennis chuqdennis   37 Aug 23 15:45 8-cwd_state
+-rw-rw-r-- 1 chuqdennis chuqdennis    0 Aug 23 15:23 iacta
+-rw-rw-r-- 1 chuqdennis chuqdennis    0 Aug 23 15:45 ls_cwd_content
+-rw-rw-r-- 1 chuqdennis chuqdennis   58 Aug 23 11:59 README.md
